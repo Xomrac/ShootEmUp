@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 791c49c3ec304635b1915d7dd3e65a8e, type: 3}
+  m_Name: SingleShotWeapon_Player
+  m_EditorClassIdentifier: 
+  _soundEffect: {fileID: 11400000, guid: 7cb04c068dc01564185a83774a8e8683, type: 2}
+  _fireRate: 0.0906
+  _projectileType: {fileID: 11400000, guid: dd954662069bdbf4aa3d95a8f636d8b1, type: 2}

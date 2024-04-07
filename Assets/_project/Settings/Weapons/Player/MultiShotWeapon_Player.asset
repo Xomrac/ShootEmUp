@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db9b27b114e6480393639bdf294f532e, type: 3}
+  m_Name: MultiShotWeapon_Player
+  m_EditorClassIdentifier: 
+  _soundEffect: {fileID: 11400000, guid: 7cb04c068dc01564185a83774a8e8683, type: 2}
+  _fireRate: 0.5
+  _projectileType: {fileID: 11400000, guid: dd954662069bdbf4aa3d95a8f636d8b1, type: 2}
+  _shotsAmount: 4
+  _spreadAngle: 30
