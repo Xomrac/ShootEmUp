@@ -9,7 +9,7 @@ namespace Xomrac.Shmups
 
 	public class MainMenuController : MonoBehaviour
 	{
-		private const string SOURCE_URL = "";
+		private const string SOURCE_URL = "https://github.com/Xomrac/ShootEmUp";
 		[SerializeField] private SceneReference _loadingScene;
 		[SerializeField] private SceneReference _firstLevelScene;
 		[SerializeField] private Button _playButton;
